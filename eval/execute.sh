@@ -1,0 +1,1 @@
+python3 /home/cz/mds3/COHERE/eval/deepconv.py --dataset  MHEALTH.npz --path_real /home/cz/mds3/COHERE/datasets --path_synthetic /home/cz/mds3/COHERE/final/mhealth --mode tstr --checkpoints /home/cz/mds3/COHERE/eval/results

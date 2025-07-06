@@ -1,0 +1,3 @@
+python3 /home/cz/mds3/COHERE/eval/deepconv.py --dataset  MHEALTH.npz --path_real /home/cz/mds3/COHERE/datasets --path_synthetic /home/cz/mds3/COHERE/final/mhealth --mode aug_30 --checkpoints /home/cz/mds3/COHERE/eval/results
+python3 /home/cz/mds3/COHERE/eval/deepconv.py --dataset  MHEALTH.npz --path_real /home/cz/mds3/COHERE/datasets --path_synthetic /home/cz/mds3/COHERE/final/mhealth --mode aug_10 --checkpoints /home/cz/mds3/COHERE/eval/results
+python3 /home/cz/mds3/COHERE/eval/deepconv.py --dataset  MHEALTH.npz --path_real /home/cz/mds3/COHERE/datasets --path_synthetic /home/cz/mds3/COHERE/final/mhealth --mode aug_15 --checkpoints /home/cz/mds3/COHERE/eval/results

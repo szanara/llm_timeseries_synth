@@ -1,0 +1,1 @@
+python3 /home/cz/mds3/COHERE/eval/deepconv.py --dataset  UTD-MHAD2_1s.npz --path_real /home/cz/mds3/COHERE/datasets --path_synthetic /home/cz/mds3/COHERE/final/mhad2 --mode trts --checkpoints /home/cz/mds3/COHERE/eval/results
